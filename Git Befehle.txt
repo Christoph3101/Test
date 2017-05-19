@@ -1,0 +1,9 @@
+git status			(veränderte Dateien anzeigen)
+
+git add . 			(Alles veränderte hinzufügen)
+	
+git commit -m ".."		(veränderung kommentieren)
+
+git push -u origin master	(veränderungen auf Server pushen)
+
+git pull			(veränderungen vom Server runterladen)
