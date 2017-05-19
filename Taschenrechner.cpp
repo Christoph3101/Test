@@ -4,7 +4,7 @@ using namespace std;
 
 main ()
 {
-	float a;
+	double a;
 	float b;
 	
 	cout << "Geben Sie einen Wert fuer 'a' ein: a=";
